@@ -147,7 +147,7 @@ const Question = ({ onYes }) => {
         {/* Cute message after No disappears */}
         {noClicks >= 5 && (
           <p className="mt-10 text-lg text-gray-500 italic">
-            Ab to sirf ek hi jawab bachta hai… 😌💖
+            Not an option bbg
           </p>
         )}
       </div>
